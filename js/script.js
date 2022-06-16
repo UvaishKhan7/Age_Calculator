@@ -9,6 +9,6 @@ var calculate_btn = document.getElementById('calculate_btn'),
     ageYear = new Date(totalAge);
     ageYear = Math.abs(ageYear.getUTCFullYear() - 1970 );
       
-    calculate_age.innerHTML = "Your Age "+ageYear+" Years "
+    calculate_age.innerHTML = "Your Age is "+ageYear+" Years "
 
   });
