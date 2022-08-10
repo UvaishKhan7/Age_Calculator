@@ -7,5 +7,5 @@ I've completed this using below languages :
 - CSS
 - JavaScript
 
-Click on the below link to check your age..
+Click on the link to check your age..
 https://age-calculator-iota.vercel.app/
